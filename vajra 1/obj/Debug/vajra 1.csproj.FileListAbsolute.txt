@@ -1,0 +1,60 @@
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\vajra 1.exe
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\vajra 1.pdb
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Guna.UI.dll
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra 1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.Properties.Resources.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra 1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra 1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra 1.csproj.CopyComplete
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra 1.exe
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra 1.pdb
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.vajra_login.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.vajra_BillBook.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.Homepage.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.vajra_Mainpage.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.vajra_Helppage.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.crcomp.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.main_master.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.main_trans.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.main_stockmnage.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.salesentry.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\User\source\repos\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.stockcreate.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.crcust.resources
+C:\Users\User\source\repos\vajra 1\vajra 1\obj\Debug\vajra_1.crsupplier.resources
+F:\Final_project\vajra 1\vajra 1\bin\Debug\vajra 1.exe
+F:\Final_project\vajra 1\vajra 1\bin\Debug\vajra 1.pdb
+F:\Final_project\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\Final_project\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\Final_project\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\Final_project\vajra 1\vajra 1\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+F:\Final_project\vajra 1\vajra 1\bin\Debug\Bunifu_UI_v1.5.3.xml
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra 1.csproj.AssemblyReference.cache
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.crcomp.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.crcust.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.crsupplier.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.Homepage.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.main_master.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.main_stockmnage.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.main_trans.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.salesentry.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.stockcreate.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.vajra_BillBook.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.vajra_Helppage.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.vajra_Mainpage.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.vajra_login.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra_1.Properties.Resources.resources
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra 1.csproj.GenerateResource.cache
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra 1.csproj.CoreCompileInputs.cache
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra 1.csproj.CopyComplete
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra 1.exe
+F:\Final_project\vajra 1\vajra 1\obj\Debug\vajra 1.pdb

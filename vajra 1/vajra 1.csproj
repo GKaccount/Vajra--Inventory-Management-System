@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{879C87A7-F494-415B-8BF5-236D93753AAB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>vajra_1</RootNamespace>
+    <AssemblyName>vajra 1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Core, Version=1.11.5.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9" />
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\..\..\Downloads\pass is 123 azadeducation_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker">
+      <HintPath>..\..\..\..\Downloads\pass is 123 azadeducation_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\..\..\Downloads\pass is 123 azadeducation_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>..\..\..\..\Downloads\pass is 123 azadeducation_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\pass is 123 azadeducation_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\Desktop\gunna\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="crcomp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crcomp.Designer.cs">
+      <DependentUpon>crcomp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="crcust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crcust.Designer.cs">
+      <DependentUpon>crcust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="crsupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crsupplier.Designer.cs">
+      <DependentUpon>crsupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Homepage.Designer.cs">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_master.Designer.cs">
+      <DependentUpon>main_master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_stockmnage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_stockmnage.Designer.cs">
+      <DependentUpon>main_stockmnage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_trans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_trans.Designer.cs">
+      <DependentUpon>main_trans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesentry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesentry.Designer.cs">
+      <DependentUpon>salesentry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stockcreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stockcreate.Designer.cs">
+      <DependentUpon>stockcreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vajra_BillBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vajra_BillBook.Designer.cs">
+      <DependentUpon>vajra_BillBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vajra_Helppage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vajra_Helppage.Designer.cs">
+      <DependentUpon>vajra_Helppage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vajra_Mainpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vajra_Mainpage.Designer.cs">
+      <DependentUpon>vajra_Mainpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vajra_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vajra_login.Designer.cs">
+      <DependentUpon>vajra_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="crcomp.resx">
+      <DependentUpon>crcomp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crcust.resx">
+      <DependentUpon>crcust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crsupplier.resx">
+      <DependentUpon>crsupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Homepage.resx">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_master.resx">
+      <DependentUpon>main_master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_stockmnage.resx">
+      <DependentUpon>main_stockmnage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_trans.resx">
+      <DependentUpon>main_trans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesentry.resx">
+      <DependentUpon>salesentry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stockcreate.resx">
+      <DependentUpon>stockcreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vajra_BillBook.resx">
+      <DependentUpon>vajra_BillBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vajra_Helppage.resx">
+      <DependentUpon>vajra_Helppage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vajra_Mainpage.resx">
+      <DependentUpon>vajra_Mainpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vajra_login.resx">
+      <DependentUpon>vajra_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
